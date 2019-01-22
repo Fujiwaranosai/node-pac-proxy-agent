@@ -34,7 +34,7 @@
     "https-proxy-agent": "^2.2.1",
     "pac-resolver": "^3.0.0",
     "raw-body": "^2.2.0",
-    "socks-proxy-agent": "^4.0.1"
+    "socks-proxy-agent": "github:Fujiwaranosai/node-socks-proxy-agent"
   },
   "devDependencies": {
     "mocha": "^5.1.0",
